@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream - Telegram Media Intelligence",
+  "description": "A professional AI-powered media intelligence platform to securely scan, analyze, and bulk download audio files from Telegram channels and chats using the official API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
